@@ -120,3 +120,4 @@ if completion.choices[0].message.tool_calls:
 else:
     print("No tool was triggered by the model.")
 
+
